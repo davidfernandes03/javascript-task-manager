@@ -1,0 +1,24 @@
+{
+  "name": "javascript-task-manager",
+  "version": "1.0.0",
+  "description": "{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidfernandes03/javascript-task-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidfernandes03/javascript-task-manager/issues"
+  },
+  "homepage": "https://github.com/davidfernandes03/javascript-task-manager#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
